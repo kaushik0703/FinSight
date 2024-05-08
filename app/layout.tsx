@@ -14,9 +14,9 @@ const ibmPlexSerif = IBM_Plex_Serif({
 
 export const metadata: Metadata = {
   title: "FinSight - Financial Insights for Everyone",
-  description: "FinnSight is a financial insights platform that helps you make better financial decisions.",
+  description: "FinSight is a financial insights platform that helps you make better financial decisions.",
   icons: {
-    icon: "/favicon.ico",
+    icon: "icons/logo.svg",
   }
 };
 
